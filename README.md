@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-*🔭 I’m currently working on discourse analysis
+* I’m currently working on discourse analysis
 
-*🌱 I’m currently learning about python, text analysis, digital humanities and culture
+* I’m currently learning about python, text analysis, digital humanities and culture
 
 *💬 Ask me about public health communciation
 
